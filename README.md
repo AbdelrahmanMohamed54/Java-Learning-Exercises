@@ -23,10 +23,11 @@ This repository is a compilation of Java exercises organized to demonstrate my l
 ### 2. Variables and Data Types
 - Exercise 2: Declare variables for different data types (int, double, String) and perform basic arithmetic operations.
 - Exercise 3: Concatenate strings and explore string manipulation.
+- Exercise 4: Explore type conversion by converting variables from one data type to another.
 
 ### 3. Control Flow - Conditional Statements
-- Exercise 4: Implement a program that checks if a given number is even or odd.
-- Exercise 5: Create a program that determines if a year is a leap year.
+- Exercise 5: Implement a program that checks if a given number is even or odd.
+- Exercise 6: Create a program that determines if a year is a leap year.
 
 ... *(Continue listing all tasks and exercises)*
 
