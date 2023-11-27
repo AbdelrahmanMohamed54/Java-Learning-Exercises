@@ -28,6 +28,7 @@ This repository is a compilation of Java exercises organized to demonstrate my l
 ### 3. Control Flow - Conditional Statements
 - Exercise 5: Implement a program that checks if a given number is even or odd.
 - Exercise 6: Create a program that determines if a year is a leap year.
+- Exercise 7: Create a program that calculates the average of three exam scores and assigns a grade based on standard grading criteria. Includes input validation for scores within the valid range (0 to 100).
 
 ... *(Continue listing all tasks and exercises)*
 
