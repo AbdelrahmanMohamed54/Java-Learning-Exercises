@@ -30,6 +30,12 @@ This repository is a compilation of Java exercises organized to demonstrate my l
 - Exercise 6: Create a program that determines if a year is a leap year.
 - Exercise 7: Create a program that calculates the average of three exam scores and assigns a grade based on standard grading criteria. Includes input validation for scores within the valid range (0 to 100).
 
+### 3. Loops
+- Exercise 8: Implement a Java program to print the Fibonacci sequence up to a specified number of terms.
+- Exercise 9: Create a Simple 'Guess the Number' game implemented in Java using a loop.
+- Exercise 10: Java program to generate and display prime numbers up to a user-specified limit.
+- Exercise 11: write a Java program to print a pyramid pattern of numbers based on user-defined height.
+
 ... *(Continue listing all tasks and exercises)*
 
 ## Getting Started
