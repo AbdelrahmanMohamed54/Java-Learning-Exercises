@@ -36,6 +36,22 @@ This repository is a compilation of Java exercises organized to demonstrate my l
 - Exercise 10: Java program to generate and display prime numbers up to a user-specified limit.
 - Exercise 11: write a Java program to print a pyramid pattern of numbers based on user-defined height.
 
+### 4. Arrays
+- Exercise 12: Enhance Matrix Multiplication program to handle invalid inputs, prompting the user for valid numeric entries.
+- Exercise 13: Implement Java program using the quicksort algorithm to sort an array of integers in ascending order.
+- Exercise 14: Java program to find the maximum and minimum values in an array.
+- Rxercise 15: Java program to reverse the elements of an array without using built-in functions.
+
+### 5. Methods And Functions
+- Exercise 16: Implement Polynomial class with operations (addition, subtraction, evaluation) and a program showcasing its usage.
+- Exercise 17: Implement palindrome checker function for strings, ensuring efficient and accurate verification.
+- Exercise 18: Add a Java program to calculate the factorial of a number, providing a fundamental mathematical utility.
+
+### 6. OOP - Classes and Objects
+- Exercise 19: Introduce a Library Management System with modularized classes: Book, LibraryMember, and LibraryManagementSystem. Each class encapsulates specific functionalities, promoting maintainability and readability. The system allows displaying available books and library members, borrowing and returning books, and gracefully handles user interactions through a menu-driven interface. This commit establishes a foundation for a scalable and organized library management solution.
+- Exercise 20:
+- Exercise 21:
+
 ... *(Continue listing all tasks and exercises)*
 
 ## Getting Started
