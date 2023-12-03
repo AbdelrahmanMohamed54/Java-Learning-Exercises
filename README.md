@@ -49,8 +49,9 @@ This repository is a compilation of Java exercises organized to demonstrate my l
 
 ### 6. OOP - Classes and Objects
 - Exercise 19: Introduce a Library Management System with modularized classes: Book, LibraryMember, and LibraryManagementSystem. Each class encapsulates specific functionalities, promoting maintainability and readability. The system allows displaying available books and library members, borrowing and returning books, and gracefully handles user interactions through a menu-driven interface. This commit establishes a foundation for a scalable and organized library management solution.
-- Exercise 20:
-- Exercise 21:
+- Exercise 20: The Inventory Management System is a Java-based application designed to facilitate efficient management of product inventory in various domains. This system provides a robust foundation for tracking, organizing, and updating product information, allowing businesses to streamline their inventory operations. I published this project in a seperate repository also.
+
+### 7. 
 
 ... *(Continue listing all tasks and exercises)*
 
