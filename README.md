@@ -30,27 +30,28 @@ This repository is a compilation of Java exercises organized to demonstrate my l
 - Exercise 6: Create a program that determines if a year is a leap year.
 - Exercise 7: Create a program that calculates the average of three exam scores and assigns a grade based on standard grading criteria. Includes input validation for scores within the valid range (0 to 100).
 
-### 3. Loops
+### 4. Loops
 - Exercise 8: Implement a Java program to print the Fibonacci sequence up to a specified number of terms.
 - Exercise 9: Create a Simple 'Guess the Number' game implemented in Java using a loop.
 - Exercise 10: Java program to generate and display prime numbers up to a user-specified limit.
 - Exercise 11: write a Java program to print a pyramid pattern of numbers based on user-defined height.
 
-### 4. Arrays
+### 5. Arrays
 - Exercise 12: Enhance Matrix Multiplication program to handle invalid inputs, prompting the user for valid numeric entries.
 - Exercise 13: Implement Java program using the quicksort algorithm to sort an array of integers in ascending order.
 - Exercise 14: Java program to find the maximum and minimum values in an array.
 - Rxercise 15: Java program to reverse the elements of an array without using built-in functions.
 
-### 5. Methods And Functions
+### 6. Methods And Functions
 - Exercise 16: Implement Polynomial class with operations (addition, subtraction, evaluation) and a program showcasing its usage.
 - Exercise 17: Implement palindrome checker function for strings, ensuring efficient and accurate verification.
 - Exercise 18: Add a Java program to calculate the factorial of a number, providing a fundamental mathematical utility.
 
-### 6. OOP - Classes and Objects
+### 7. OOP - Classes and Objects
 - Exercise 19: Introduce a Library Management System with modularized classes: Book, LibraryMember, and LibraryManagementSystem. Each class encapsulates specific functionalities, promoting maintainability and readability. The system allows displaying available books and library members, borrowing and returning books, and gracefully handles user interactions through a menu-driven interface. This commit establishes a foundation for a scalable and organized library management solution.
-- Exercise 20:
-- Exercise 21:
+- Exercise 20: The Inventory Management System is a Java-based application designed to facilitate efficient management of product inventory in various domains. This system provides a robust foundation for tracking, organizing, and updating product information, allowing businesses to streamline their inventory operations. I published this project in a seperate repository also.
+
+### 8. 
 
 ... *(Continue listing all tasks and exercises)*
 
