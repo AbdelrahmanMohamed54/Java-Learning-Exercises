@@ -51,7 +51,14 @@ This repository is a compilation of Java exercises organized to demonstrate my l
 - Exercise 19: Introduce a Library Management System with modularized classes: Book, LibraryMember, and LibraryManagementSystem. Each class encapsulates specific functionalities, promoting maintainability and readability. The system allows displaying available books and library members, borrowing and returning books, and gracefully handles user interactions through a menu-driven interface. This commit establishes a foundation for a scalable and organized library management solution.
 - Exercise 20: The Inventory Management System is a Java-based application designed to facilitate efficient management of product inventory in various domains. This system provides a robust foundation for tracking, organizing, and updating product information, allowing businesses to streamline their inventory operations. I published this project in a seperate repository also.
 
-### 8. 
+### 8. Exception Handling
+
+Exercise 21: Write a program that handles exceptions (e.g., divide by zero) using try-catch blocks.
+Exercise 22: Create a custom exception class and handle it in your program.
+Exercise 23: The "File and Exception Handling in Java" project is designed to showcase effective techniques for managing files and handling exceptions in Java programming. The project provides practical examples of reading data from files, performing operations, and addressing potential errors through exception handling mechanisms.
+
+### 9. 
+
 
 ... *(Continue listing all tasks and exercises)*
 
