@@ -52,13 +52,16 @@ This repository is a compilation of Java exercises organized to demonstrate my l
 - Exercise 20: The Inventory Management System is a Java-based application designed to facilitate efficient management of product inventory in various domains. This system provides a robust foundation for tracking, organizing, and updating product information, allowing businesses to streamline their inventory operations. I published this project in a seperate repository also.
 
 ### 8. Exception Handling
-
 Exercise 21: Write a program that handles exceptions (e.g., divide by zero) using try-catch blocks.
 Exercise 22: Create a custom exception class and handle it in your program.
 Exercise 23: The "File and Exception Handling in Java" project is designed to showcase effective techniques for managing files and handling exceptions in Java programming. The project provides practical examples of reading data from files, performing operations, and addressing potential errors through exception handling mechanisms.
 
-### 9. 
+### 9. File I/0 operations
+Exercise 24: Reads student data from a file and displays details for each student.
+Exercise 25: Writes student data to a file, demonstrating the process of updating the file content.
+Exercise 26: Implementation of the Student Record Management System with functionalities for displaying, adding, updating, and deleting student records, file I/O operations, and a menu-driven interface.
 
+### 10.
 
 ... *(Continue listing all tasks and exercises)*
 
