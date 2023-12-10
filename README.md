@@ -61,7 +61,9 @@ This repository is a compilation of Java exercises organized to demonstrate my l
 - Exercise 25: Writes student data to a file, demonstrating the process of updating the file content.
 - Exercise 26: Implementation of the Student Record Management System with functionalities for displaying, adding, updating, and deleting student records, file I/O operations, and a menu-driven interface.
 
-### 10.
+### 10. Collections - Lists and Maps
+- Exercise 27: Implement a program (ListManager.java) that utilizes a list to manage a collection of items with functionalities such as adding, displaying, removing, and clearing items from the list.
+- Exercise 28: Create a program (SimpleDictionary.java) that acts as a simple dictionary using a map, allowing users to add words with translations, translate words, and display the dictionary content.
 
 ... *(Continue listing all tasks and exercises)*
 
