@@ -65,6 +65,12 @@ This repository is a compilation of Java exercises organized to demonstrate my l
 - Exercise 27: Implement a program (ListManager.java) that utilizes a list to manage a collection of items with functionalities such as adding, displaying, removing, and clearing items from the list.
 - Exercise 28: Create a program (SimpleDictionary.java) that acts as a simple dictionary using a map, allowing users to add words with translations, translate words, and display the dictionary content.
 
+### 11. Multithreading
+- Exercise 29: Implement a program representing Basic Multithreading 
+- Exercise 30: Implement a Synchronized Counter program to avoid race conditions
+- Exercise 31: This program simulates a bank scenario where multiple customers (threads) are making random deposits and withdrawals from a shared bank account. The BankAccount class is synchronized to avoid race conditions when updating the balance.
+
+### 12. 
 ... *(Continue listing all tasks and exercises)*
 
 ## Getting Started
