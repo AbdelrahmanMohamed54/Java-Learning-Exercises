@@ -70,9 +70,14 @@ This repository is a compilation of Java exercises organized to demonstrate my l
 - Exercise 30: Implement a Synchronized Counter program to avoid race conditions
 - Exercise 31: This program simulates a bank scenario where multiple customers (threads) are making random deposits and withdrawals from a shared bank account. The BankAccount class is synchronized to avoid race conditions when updating the balance.
 
-### 12. 
-... *(Continue listing all tasks and exercises)*
+### 12. Networking
+- Exercise 32: Demonstrate Networking in java by implementing a basic client-server application using sockets.
 
+### 13. 
+- Exercise 33:
+- Exercise 34:
+
+  
 ## Getting Started
 
 To get started with these exercises, make sure you have Java installed on your machine. You can download it from [Java's official website](https://www.oracle.com/java/technologies/javase-downloads.html).
