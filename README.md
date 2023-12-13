@@ -74,7 +74,7 @@ This repository is a compilation of Java exercises organized to demonstrate my l
 - Exercise 32: Demonstrate Networking in java by implementing a basic client-server application using sockets.
 
 ### 13. JavaFX GUI 
-- Exercise 33: 
+- Exercise 33: Design and implement a simple GUI application where you can input your name and be greeted.
 - Exercise 34: Extend GUI application for Exercise 33 by handling user input and performing actions
 
   
